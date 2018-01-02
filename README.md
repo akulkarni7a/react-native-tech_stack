@@ -6,6 +6,7 @@ Set Up:
 1. Create SRC folder and create App.js file
 
 Section 11, Lecture 83: More on Redux Boilerplate:
+
 1.Import Provider and CreateStore from react-redux and redux 
 2. Wrap View in Provider tags. pass store={createStore}
 3. Create reducers folder in src. create index.js 
