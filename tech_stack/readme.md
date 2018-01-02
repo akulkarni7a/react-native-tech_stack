@@ -1,5 +1,3 @@
-# react-native-tech_stack
-
 <h4>1/1/18<h4>
 
 <b>Set Up</b>:
