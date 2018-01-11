@@ -71,3 +71,11 @@
 	a. whenever it is called it will call action item which will change redux store
 	b. takes all actions and passes to component as props
 7. Basically, anything using connect helper modifies so that component recieves it as props
+
+<h4>1.10.18</h4>
+<b>Section 13, Lecture 98: Touchable Components </b>
+1. We need to import touchable components to handle the click by user
+2. Import TouchableWithoutFeedback component
+
+<b>Section 13, Lecture 101: Moving out Components </b>
+1. ownProps = the props in the component
